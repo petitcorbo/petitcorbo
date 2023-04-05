@@ -3,9 +3,11 @@ ______  _______ _______ _____ _______ _______  _____   ______ ______   _____
 |_____] |______    |      |      |    |       |     | |_____/ |_____] |     |
 |       |______    |    __|__    |    |_____  |_____| |    \_ |_____] |_____|
 ```
-*A small crow.*
+*A small crow*
 
-<!---
-petitcorbo/petitcorbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FlNzViMTk4OGRlOGQ3OWE5OWE5ZDkyMjA0MWNmNGVmYWQ2M2NmNCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
+</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGU4ZjU3ZDIxNzM3ZTE3YjZmZTZlYTdmNmM3OTUwMDE2YzU4ODcyMiZjdD1z/5U3RLBnZbu9Okfm0eq/giphy.gif" width="100"/>
+</div>
